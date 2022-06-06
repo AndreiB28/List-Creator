@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+li {
+  height: 30px;
+}
+.info {
+  padding: 5px;
+}
+.editer {
+  background-color: yellowgreen;
+  max-width: 50px;
+  padding: 2px;
+  color: white;
+  font-size: 0.9em;
+  margin: 0 3px;
+  border-radius: 5px;
+}
+.del {
+  background-color: orangered;
+  max-width: 50px;
+  padding: 2px;
+  color: white;
+  font-size: 0.9em;
+  margin: 0 3px;
+  border-radius: 5px;
+}
